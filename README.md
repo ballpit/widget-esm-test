@@ -1,5 +1,19 @@
-This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app) and uses [Netlify Identity](https://www.netlify.com/docs/identity/) for authentication.
+# Quasar App
 
-<!-- Markdown snippet -->
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/bcomnes/react-identity-widget-demo)
+> A Quasar project
 
+## Build Setup
+
+``` bash
+# install dependencies
+$ npm install
+
+# serve with hot reload at localhost:8080
+$ quasar dev
+
+# build for production with minification
+$ quasar build
+
+# lint code
+$ quasar lint
+```
