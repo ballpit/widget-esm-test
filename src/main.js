@@ -24,7 +24,7 @@ import 'quasar-extras/material-icons'
 // import 'quasar-extras/ionicons'
 // import 'quasar-extras/fontawesome'
 // import 'quasar-extras/animate'
-import netlifyIdentity from 'netlify-identity-widget'
+const netlifyIdentity = require('netlify-identity-widget')
 window.netlifyIdentity = netlifyIdentity
 netlifyIdentity.init({
   container: '#widgets'
