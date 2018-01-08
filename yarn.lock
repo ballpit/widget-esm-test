@@ -3185,9 +3185,9 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
-netlify-identity-widget@1.4.2-beta:
-  version "1.4.2-beta"
-  resolved "https://registry.yarnpkg.com/netlify-identity-widget/-/netlify-identity-widget-1.4.2-beta.tgz#43ea8bd3c08b5914daaf32ddbfe912d6438c8c6c"
+netlify-identity-widget@1.4.2-beta-2:
+  version "1.4.2-beta-2"
+  resolved "https://registry.yarnpkg.com/netlify-identity-widget/-/netlify-identity-widget-1.4.2-beta-2.tgz#307d0677669e2c7a41f4fd0eb9f7a449c0089fcf"
 
 no-case@^2.2.0:
   version "2.3.2"
