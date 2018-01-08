@@ -84,13 +84,7 @@
   },
   "babel": {
     "presets": [
-      "react-app",
-      ["env", {
-        "targets": {
-          "browsers": ["ie >= 11"]
-        }
-      }],
-      "stage-0"
+      "react-app"
     ]
   },
   "eslintConfig": {
