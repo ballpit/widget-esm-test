@@ -27,7 +27,7 @@ import 'quasar-extras/material-icons'
 import netlifyIdentity from 'netlify-identity-widget'
 window.netlifyIdentity = netlifyIdentity
 netlifyIdentity.init({
-  container: "#widgets"
+  container: '#widgets'
 })
 
 Quasar.start(() => {
