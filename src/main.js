@@ -24,11 +24,11 @@ import 'quasar-extras/material-icons'
 // import 'quasar-extras/ionicons'
 // import 'quasar-extras/fontawesome'
 // import 'quasar-extras/animate'
-import netlifyIdentity from 'netlify-identity-widget'
-window.netlifyIdentity = netlifyIdentity
+const netlifyIdentity = window.netlifyIdentity
 netlifyIdentity.init({
   container: '#widgets'
 })
+netlifyIdentity.open()
 
 Quasar.start(() => {
   /* eslint-disable no-new */
